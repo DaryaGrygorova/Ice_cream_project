@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://DaryaGrygorova.github.io/Ice_cream_project",
+  "homepage": "https://daryagrygorova.github.io/ice_cream_project",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Ice_cream_project/"
+    "build": "parcel build src/*.html --public-url /ice_cream_project/"
   },
   "repository": {
     "type": "git",
